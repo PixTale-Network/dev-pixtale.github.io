@@ -3027,13 +3027,13 @@ code {
   background-color: var(--main-color);
 }
 .mentioned-xhSam7.message-2qnXI6.selected-2P5D_Z {
-  background-color: #4eb7ba;
+  background-color: var(--main-color);
 }
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-  background-color: #4eb7ba;
+  background-color: var(--main-color);
 }
 .mentioned-xhSam7::before {
-  background-color: #4eb7ba;
+  background-color: var(--main-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive {
   color: var(--main-color);
