@@ -3036,10 +3036,10 @@ code {
   background-color: #4eb7ba;
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive {
-  color: #4eb7ba;
+  color: var(--main-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive:hover {
-  color: #4eb7ba;
+  color: var(--main-color);
   text-decoration: none;
 }
 
