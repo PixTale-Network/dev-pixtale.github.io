@@ -1999,10 +1999,10 @@ textarea,
   color: var(--text-normal);
 }
 .message-2qnXI6 .mentioned-xhSam7 {
-  background: #4eb7ba;
+  background: var(--main-color);
 }
 .message-2qnXI6 .mentioned-xhSam7:after {
-  background: #4eb7ba;
+  background: var(--main-color);
   border-left: 4px solid var(--main-color);
   border-radius: 2px 0 0 2px;
 }
