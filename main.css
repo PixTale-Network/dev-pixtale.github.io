@@ -3009,12 +3009,12 @@ code {
 .topic-TCb_qw .wrapper-3WhCwL,
 .markup-2BOw-j .wrapper-3WhCwL {
   background-color: var(--main-color);
-  color: #50bcbf;
+  color: var(--main-color);
 }
 .topic-TCb_qw .wrapper-3WhCwL:hover,
 .markup-2BOw-j .wrapper-3WhCwL:hover {
   background-color: var(--main-color);
-  color: #50bcbf;
+  color: var(--main-color);
 }
 .topic-TCb_qw strong > .wrapper-3WhCwL,
 .topic-TCb_qw strong > .mention,
