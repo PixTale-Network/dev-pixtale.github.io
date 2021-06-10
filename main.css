@@ -3033,10 +3033,10 @@ code {
   background-color: #4eb7ba;
 }
 .mentioned-xhSam7::before {
-  background-color: var(--main-color);
+  background-color: #4eb7ba;
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive {
-  color: var(--main-color);
+  color: #4eb7ba;
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive:hover {
   color: #4eb7ba;
