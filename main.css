@@ -1999,10 +1999,10 @@ textarea,
   color: var(--text-normal);
 }
 .message-2qnXI6 .mentioned-xhSam7 {
-  background: rgba(255, 255, 255, 0.1);
+  background: #4eb7ba;
 }
 .message-2qnXI6 .mentioned-xhSam7:after {
-  background: rgba(255, 255, 255, 0.1);
+  background: #4eb7ba;
   border-left: 4px solid var(--main-color);
   border-radius: 2px 0 0 2px;
 }
@@ -3024,13 +3024,13 @@ code {
 }
 
 .mentioned-xhSam7 {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: #4eb7ba;
 }
 .mentioned-xhSam7.message-2qnXI6.selected-2P5D_Z {
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: #4eb7ba;
 }
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: #4eb7ba;
 }
 .mentioned-xhSam7::before {
   background-color: var(--main-color);
@@ -3039,7 +3039,7 @@ code {
   color: var(--main-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive:hover {
-  color: #fff;
+  color: #4eb7ba;
   text-decoration: none;
 }
 
