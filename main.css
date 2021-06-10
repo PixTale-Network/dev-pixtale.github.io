@@ -3008,13 +3008,13 @@ code {
 }
 .topic-TCb_qw .wrapper-3WhCwL,
 .markup-2BOw-j .wrapper-3WhCwL {
-  background-color: rgba(255, 255, 255, 0.04);
-  color: rgba(255, 255, 255, 0.7);
+  background-color: #50bcbf);
+  color: #50bcbf;
 }
 .topic-TCb_qw .wrapper-3WhCwL:hover,
 .markup-2BOw-j .wrapper-3WhCwL:hover {
   background-color: var(--main-color);
-  color: #fff;
+  color: #50bcbf;
 }
 .topic-TCb_qw strong > .wrapper-3WhCwL,
 .topic-TCb_qw strong > .mention,
