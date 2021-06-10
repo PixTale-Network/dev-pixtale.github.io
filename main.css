@@ -1999,10 +1999,10 @@ textarea,
   color: var(--text-normal);
 }
 .message-2qnXI6 .mentioned-xhSam7 {
-  background: var(--main-color);
+  background: rgba(255, 255, 255, 0.1);
 }
 .message-2qnXI6 .mentioned-xhSam7:after {
-  background: var(--main-color);
+  background: rgba(255, 255, 255, 0.1);
   border-left: 4px solid var(--main-color);
   border-radius: 2px 0 0 2px;
 }
@@ -3008,13 +3008,13 @@ code {
 }
 .topic-TCb_qw .wrapper-3WhCwL,
 .markup-2BOw-j .wrapper-3WhCwL {
-  background-color: var(--main-color);
-  color: var(--main-color);
+  background-color: #50bcbf);
+  color: #50bcbf;
 }
 .topic-TCb_qw .wrapper-3WhCwL:hover,
 .markup-2BOw-j .wrapper-3WhCwL:hover {
-  background-color: var(--main-color);
-  color: var(--main-color);
+  background-color: #50bcbf;
+  color: #50bcbf;
 }
 .topic-TCb_qw strong > .wrapper-3WhCwL,
 .topic-TCb_qw strong > .mention,
@@ -3024,13 +3024,13 @@ code {
 }
 
 .mentioned-xhSam7 {
-  background-color: var(--main-color);
+  background-color: rgba(255, 255, 255, 0.05);
 }
 .mentioned-xhSam7.message-2qnXI6.selected-2P5D_Z {
-  background-color: var(--main-color);
+  background-color: rgba(255, 255, 255, 0.08);
 }
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-  background-color: var(--main-color);
+  background-color: rgba(255, 255, 255, 0.08);
 }
 .mentioned-xhSam7::before {
   background-color: var(--main-color);
@@ -3039,7 +3039,7 @@ code {
   color: var(--main-color);
 }
 .theme-dark .mentioned-xhSam7 .wrapper-3WhCwL.interactive:hover {
-  color: var(--main-color);
+  color: #fff;
   text-decoration: none;
 }
 
