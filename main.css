@@ -3024,7 +3024,7 @@ code {
 }
 
 .mentioned-xhSam7 {
-  background-color: #4eb7ba;
+  background-color: var(--main-color);
 }
 .mentioned-xhSam7.message-2qnXI6.selected-2P5D_Z {
   background-color: #4eb7ba;
