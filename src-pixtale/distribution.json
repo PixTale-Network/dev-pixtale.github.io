@@ -1,19 +1,18 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
-        "smallImageKey": "seal-circle"
+        "clientId": "580775756376834089",
+        "largeImageKey": "logo",
     },
     "java": {
-        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+        "oracle": "https://www.oracle.com/java/technologies/javase-jdk16-downloads.html"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
             "id": "WesterosCraft-1.12.2",
             "name": "PixTale Network",
-            "description": "PixTale - Это мир невероятных возможностей и атмосферы, которая захватывает тебя с первой же секунды! \n[Находится в разработке]",
+            "description": "Уникальный проект в Minecraft Vanilla. В разработке",
             "icon": "https://media.discordapp.net/attachments/848951664190685214/869647958268850186/logo11.png?width=683&height=683",
             "version": "0.0.1",
             "address": "mc.pixtale.ru:25565",
