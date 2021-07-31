@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "580775756376834089",
-        "largeImageKey": "logo",
+        "largeImageKey": "logo"
     },
     "java": {
         "oracle": "https://www.oracle.com/java/technologies/javase-jdk16-downloads.html"
