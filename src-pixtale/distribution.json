@@ -16,7 +16,7 @@
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "4.6.4",
             "address": "mc.pixtale.ru:25565",
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.17.1",
             "discord": {
                 "shortId": "1.12.2 Test Server",
                 "largeImageText": "WesterosCraft 1.12.2 Test Server",
@@ -26,13 +26,13 @@
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
+                    "id": "pixtale-network-forge-1.17.1-37.0.70",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
                         "size": 4884700,
                         "MD5": "90734a5a713e24902d24c45c15caa42c",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
+                        "url": "https://pixtale-network.github.io/dev-pixtale.github.io/src-pixtale/pixtale-network-forge-1.17.1-37.0.70.jar"
                     },
                     "subModules": [
                         {
